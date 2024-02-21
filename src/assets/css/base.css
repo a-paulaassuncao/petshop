@@ -1,0 +1,10 @@
+h2 {
+    color: cadetblue;
+}
+
+p {
+    display: flex;
+
+    padding: 0 500px;
+    text-align: center;
+}
